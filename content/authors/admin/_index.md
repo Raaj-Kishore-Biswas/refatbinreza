@@ -14,11 +14,11 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer, Department of English
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: East West University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
