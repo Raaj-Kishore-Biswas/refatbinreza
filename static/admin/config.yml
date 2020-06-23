@@ -3,9 +3,9 @@ backend:
   branch: master
 
 
-  media_folder: "static/img"
-  media_library: "static/img"
-  public_folder: "img"
+  media_folder: "content"
+  media_library: "content"
+  public_folder: "content"
 
 
 collections:
