@@ -3,8 +3,8 @@ backend:
   branch: master
 
 
-  media_folder: "content"
-  media_library: "content"
+  #media_folder: "content"
+  #media_library: "content"
   public_folder: "content"
 
 
